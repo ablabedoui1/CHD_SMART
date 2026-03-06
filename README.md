@@ -1,4 +1,6 @@
-# ECG paper code (cleaned Python modules)
+# Developmentally Normalized ECG Modeling Enables Interpretable Risk Stratification for Pediatric Congenital Heart Disease
+
+
 
 This package contains Python files extracted from the notebook used for the paper
 submission. The notebook logic was reorganized into modules to make GitHub upload
