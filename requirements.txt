@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+seaborn
+xgboost
+tensorflow
+shap
+wfdb
+neurokit2
